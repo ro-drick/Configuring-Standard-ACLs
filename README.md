@@ -21,6 +21,8 @@ In this Packet Tracer lab, we will configure **OSPF (Open Shortest Path First)**
 - **R1 (203.0.113.1/30)** and **R2 (203.0.113.2/30)**: Routers with serial connectivity between them.
 - **Switches (SW1, SW2, SW3, SW4)**: Connect hosts and servers to the routers.
 
+<img src= "https://github.com/ro-drick/Configuring-Standard-ACLs/blob/main/standard-acls.jpg">
+
 ---
 
 ## Objectives
