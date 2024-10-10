@@ -1,6 +1,3 @@
-### README: Packet Tracer Lab – OSPF and ACL Configuration
-
----
 
 ## Overview
 
