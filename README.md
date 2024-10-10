@@ -175,3 +175,10 @@ After configuring OSPF and ACLs, use **ping** commands to test network connectiv
 
 In this lab, we successfully implemented OSPF routing and applied ACLs to enforce network security policies. The OSPF configuration ensured full network connectivity, while the ACLs restricted access between specific network segments as required.
 
+
+## Acknowledgements
+
+
+Special thanks to **Jeremy's IT Lab** for providing valuable resources and tutorials that greatly contributed to the completion of this exercise. His in-depth explanations and practical demonstrations have been instrumental in enhancing my understanding of Cisco networking concepts and the effective use of Packet Tracer.
+
+For more information and additional resources, visit [Jeremy's IT Lab](https://jeremysitlab.com/) and check out his YouTube for the full course, [Jeremy's IT Lab Free CCNA 200-301 | Complete Course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
